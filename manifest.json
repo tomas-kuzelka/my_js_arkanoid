@@ -1,0 +1,25 @@
+{
+  "name": "ARKATYPE — Neonová Klávesová Střílečka",
+  "short_name": "ARKATYPE",
+  "description": "Retro arkádová typing shooter hra kombinující vizuální styl Arkanoidu a střelbu pomocí klávesových zkratek.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050712",
+  "theme_color": "#060816",
+  "lang": "cs",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='36' fill='%23060816'/%3E%3Crect x='10' y='10' width='172' height='172' rx='28' fill='none' stroke='%2300f3ff' stroke-width='6'/%3E%3Crect x='34' y='36' width='56' height='22' rx='5' fill='%23ff2a85'/%3E%3Crect x='102' y='36' width='56' height='22' rx='5' fill='%23ffd166'/%3E%3Crect x='68' y='68' width='56' height='22' rx='5' fill='%2300f3ff'/%3E%3Cline x1='96' y1='144' x2='96' y2='96' stroke='%2300ff9d' stroke-width='6' stroke-linecap='round'/%3E%3Crect x='46' y='146' width='100' height='18' rx='9' fill='%2300f3ff'/%3E%3Crect x='46' y='146' width='20' height='18' rx='9' fill='%23ff5722'/%3E%3Crect x='126' y='146' width='20' height='18' rx='9' fill='%23ff5722'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%23060816'/%3E%3Crect x='24' y='24' width='464' height='464' rx='76' fill='none' stroke='%2300f3ff' stroke-width='14'/%3E%3Crect x='88' y='96' width='152' height='58' rx='12' fill='%23ff2a85'/%3E%3Crect x='272' y='96' width='152' height='58' rx='12' fill='%23ffd166'/%3E%3Crect x='180' y='182' width='152' height='58' rx='12' fill='%2300f3ff'/%3E%3Cline x1='256' y1='382' x2='256' y2='254' stroke='%2300ff9d' stroke-width='16' stroke-linecap='round'/%3E%3Crect x='120' y='388' width='272' height='48' rx='24' fill='%2300f3ff'/%3E%3Crect x='120' y='388' width='54' height='48' rx='24' fill='%23ff5722'/%3E%3Crect x='338' y='388' width='54' height='48' rx='24' fill='%23ff5722'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
